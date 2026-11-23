@@ -1,0 +1,6 @@
+{"question": "Sous combien de jours puis-je demander un remboursement ?", "expected_doc": "refund", "reference": "Un remboursement est possible sous 30 jours après l'achat."}
+{"question": "Combien de temps prend la livraison standard ?", "expected_doc": "shipping", "reference": "La livraison standard prend 3 à 5 jours ouvrés."}
+{"question": "Combien coûte la livraison express ?", "expected_doc": "shipping", "reference": "La livraison express est assurée en 24 heures pour 9 euros."}
+{"question": "Quelle est la durée de la garantie légale ?", "expected_doc": "warranty", "reference": "La garantie légale couvre les défauts de fabrication pendant 24 mois."}
+{"question": "Quels sont les horaires du support client ?", "expected_doc": "support", "reference": "Le support client répond du lundi au vendredi de 9 heures à 18 heures."}
+{"question": "Pendant combien d'années mes données personnelles sont-elles conservées ?", "expected_doc": "privacy", "reference": "Vos données personnelles sont conservées 3 ans puis supprimées."}

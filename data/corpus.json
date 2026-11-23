@@ -1,0 +1,7 @@
+[
+  {"id": "refund", "text": "Un remboursement est possible sous 30 jours après l'achat. Le produit doit être retourné dans son emballage d'origine."},
+  {"id": "shipping", "text": "La livraison standard prend 3 à 5 jours ouvrés. La livraison express est assurée en 24 heures pour 9 euros."},
+  {"id": "warranty", "text": "La garantie légale couvre les défauts de fabrication pendant 24 mois. Elle ne couvre pas l'usure normale."},
+  {"id": "support", "text": "Le support client répond du lundi au vendredi de 9 heures à 18 heures par email ou par chat."},
+  {"id": "privacy", "text": "Vos données personnelles sont conservées 3 ans puis supprimées. Vous pouvez demander leur suppression à tout moment."}
+]
