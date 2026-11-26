@@ -1,3 +1,6 @@
+> **Archived: this project now lives in [Qistas](https://github.com/Chaams/qistas)**, the quality gate for Arabic LLM applications, which uses a real LLM judge and is evaluated in CI.
+> This repository is kept read-only as the history of the work.
+
 # rag-eval-bench
 
 Banc d'évaluation d'un pipeline RAG avec **quality gates** : la CI échoue si la fidélité, la pertinence
